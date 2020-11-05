@@ -1,5 +1,5 @@
-# Real State API whith Lumen PHP Framework
+# Real State REST whith Lumen PHP Framework
 
 ## Link to use
 
-[Real State link](https://real-state-api.herokuapp.com).
+[API](https://real-state-api.herokuapp.com).
